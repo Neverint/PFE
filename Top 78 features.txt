@@ -1,0 +1,80 @@
+Top features by ANOVA F-Test:
+                    Feature         Score
+      Bwd Packet Length Std 181460.227419
+     Bwd Packet Length Mean 168847.981073
+        Average Packet Size 168847.981073
+      Bwd Packet Length Max 165722.561497
+          Max Packet Length 150706.891124
+                Fwd IAT Std 144486.832108
+              Bwd Packets/s 133127.634116
+         Packet Length Mean 130666.363683
+       min_seg_size_forward 123346.904326
+     Init_Win_bytes_forward 122838.615605
+             ECE Flag Count 119091.139322
+          Min Packet Length 117180.369767
+           act_data_pkt_fwd 116672.324699
+               Flow IAT Max 112766.199275
+                Fwd IAT Max 112459.584312
+                   Idle Min 103882.505704
+                  Idle Mean 103469.998889
+                   Idle Max  98143.158635
+               Flow IAT Std  76027.611989
+             SYN Flag Count  42600.171970
+              Fwd IAT Total  38142.715705
+              Flow Duration  37623.642387
+          Packet Length Std  29492.651929
+              Flow IAT Mean  23279.430470
+                Bwd IAT Std  22356.323838
+              Fwd Packets/s  20753.598197
+             RST Flag Count  20376.136068
+          Subflow Bwd Bytes  18277.734274
+      Bwd Packet Length Min  17486.789096
+               Fwd IAT Mean  17459.222594
+        Subflow Fwd Packets  17129.605835
+                 Active Min  16920.160836
+                Bwd IAT Max  16045.776857
+                Active Mean  14620.507023
+               Flow IAT Min  11253.792482
+    Init_Win_bytes_backward   9263.767816
+        Subflow Bwd Packets   8657.806628
+          Fwd Avg Bulk Rate   8628.934157
+                   Idle Std   8343.082413
+               Bwd IAT Mean   7848.765213
+          Subflow Fwd Bytes   7289.114293
+             CWE Flag Count   7080.091981
+           Destination Port   6536.183254
+                 Active Max   6331.170780
+             PSH Flag Count   5894.873594
+              Fwd PSH Flags   5705.114554
+     Packet Length Variance   5705.114554
+          Bwd Header Length   5667.899171
+      Fwd Packet Length Min   5345.108475
+                Bwd IAT Min   5124.821026
+              Bwd IAT Total   4951.521119
+                Fwd IAT Min   4901.006910
+          Fwd Header Length   4894.603016
+        Fwd Header Length.1   3817.882633
+Total Length of Fwd Packets   3807.369526
+             Flow Packets/s   3656.158235
+         Bwd Avg Bytes/Bulk   3323.919861
+              Down/Up Ratio   2359.264294
+     Fwd Packet Length Mean   2359.264294
+      Fwd Packet Length Max   1932.570474
+      Fwd Packet Length Std   1450.543414
+                 Active Std   1203.864796
+               Flow Bytes/s    123.833066
+          Total Fwd Packets     15.165758
+       Avg Bwd Segment Size     15.165758
+             URG Flag Count     12.058676
+             FIN Flag Count     12.006155
+       Fwd Avg Packets/Bulk      9.364617
+Total Length of Bwd Packets      9.364434
+         Fwd Avg Bytes/Bulk      7.275764
+     Total Backward Packets      7.275764
+       Bwd Avg Packets/Bulk      6.364421
+              Bwd PSH Flags      5.512130
+             ACK Flag Count      5.512130
+          Bwd Avg Bulk Rate      0.322610
+              Bwd URG Flags      0.133647
+              Fwd URG Flags      0.076232
+       Avg Fwd Segment Size      0.076232
