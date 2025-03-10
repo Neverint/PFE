@@ -1,4 +1,27 @@
-# PFE - Project de fin d'étude 
+## **PFE - Strengthening Linux Security with Machine Learning and SIEM**
+
+### **Project Description**
+
+As part of this end-of-studies project, our goal is to enhance Linux system security by combining Machine Learning approaches with a SIEM (Security Information and Event Management) system. The main objective is to detect and prevent cyberattacks by leveraging artificial intelligence models capable of identifying malicious behavior in system and network logs.
+
+### **Objectives**
+1. **Data Collection and Preprocessing**: Extracting and preparing data from system logs, authentication logs, and network traffic logs to train Machine Learning models.
+2. **Development of a Machine Learning Model**: Implementing algorithms capable of detecting both known and unknown threats through supervised, unsupervised, and semi-supervised approaches.
+3. **Integration with SIEM**: Deploying the model within a SIEM (Splunk, ELK, QRadar) to analyze logs in real-time and generate alerts.
+4. **Implementation of an Alerting and Visualization System**: Configuring dashboards and alerts to help security teams monitor incidents and respond quickly.
+
+### **Technologies and Tools Used**
+- **Operating Systems**: Linux (Ubuntu, Debian, CentOS)
+- **Machine Learning**: Scikit-Learn, TensorFlow, PyTorch
+- **Log Management**: Splunk, ELK Stack (Elasticsearch, Logstash, Kibana), QRadar
+- **Development**: Python (Pandas, NumPy, Flask, FastAPI)
+- **Automation and Deployment**: Docker, Kubernetes, Ansible
+
+### **Why This Project?**
+With the rise of cyberattacks, it is crucial to improve threat detection on Linux systems. Traditional SIEM solutions, while powerful, can generate a large number of false positives. By integrating Machine Learning, we can enhance detection accuracy, reduce unnecessary alerts, and proactively strengthen cybersecurity.
+
+This project represents a step toward smarter and more autonomous security, combining the power of SIEM with the predictive capabilities of Machine Learning.
+
 
 
 ### **Phase 1: Data Collection and Preprocessing**
